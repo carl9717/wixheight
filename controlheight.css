@@ -1,5 +1,65 @@
 @media only screen and (min-width: 2100px) {
-#comp-lhfoe76f{
+  #comp-iin6k9si {
     height: 70vh !important;
-}
+  }
+  [data-mesh-id="comp-lhfoe76ginlineContent"] {
+    height: 30vh !important;
+  }
+  [data-mesh-id="comp-lhfoe76ginlineContent-gridContainer"] {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+  }
+  #comp-lgt55zjq{
+    height: 70vh !important;
+  }
+  #comp-lgxjpk8x{
+    height: 70vh !important;
+  }
+  #comp-lgxjpk981{
+    height: 70vh !important;
+  }
+  #comp-iseboi5q{
+    height: 70vh !important;
+  }
+  #comp-lgt6qqs5{
+    height: 70vh !important;
+  }
+  #comp-lgugkmpi{
+    height: 35vh !important;
+  }
+  #comp-lgxjh3tj{
+    height: 35vh !important;
+  }
+  [data-mesh-id=comp-lgune17qinlineContent-gridContainer]{
+    height: 70vh !important;
+  }
+  #comp-lhbncf8s{
+    height: 70vh !important;
+  }
+  #comp-lgugxd7p{
+    height: 5vh !important;
+  }
+  #comp-lgywliyf{
+    height: 5vh !important;
+  }
+  #comp-lgugxd8z{
+    height: 60vh !important;
+  }
+  #comp-lguhjm5z{
+    height: 10vh !important;
+  }
+  #comp-lha827fp{
+    height: 60vh !important;
+  }
+  #comp-lh8xynjp{
+    height: 5vh !important;
+  }
+  #comp-lh8xxzum{
+    height: 60vh !important;
+  }
+  [data-mesh-id=comp-lhfoe76ninlineContent-gridContainer] .wixui-rich-text{
+    
+  }
 }
